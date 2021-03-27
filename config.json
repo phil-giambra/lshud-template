@@ -13,7 +13,7 @@
     "transparent":false,
     "resizable":true,
     "subscribe":[],
-    "offer":["volume_update","volume_error"],
+    "offer":[],
     "active":true,
     "is_hidden":false,
     "is_pinned":false,
