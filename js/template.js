@@ -1,9 +1,5 @@
 
-/*
-let volume_change = document.getElementById("volume_change")
-volume_change.addEventListener("wheel",handleVolumeChange)
-mute_cont.addEventListener("click",toggleMute)
-*/
+
 
 fromMain.start_realtime_data = function(data){
     console.log("start_realtime_data");
